@@ -169,3 +169,13 @@
 |<img src="img/uniqon/info.png" alt="포스트" width="300"/>|
 
 </div>
+
+# ERD
+## Uniqon
+<div align="center">
+<img src="img/erd/uniqon_erd.png"/>
+
+## Diti
+<img src="img/erd/diti_erd.png">
+
+</div>

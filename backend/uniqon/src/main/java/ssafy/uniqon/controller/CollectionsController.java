@@ -96,7 +96,7 @@ public class CollectionsController {
         return OK(list);
     }
 
-    @Operation(summary = "중분류 정보 조회", description = "대분류 동물에 속하는 중분류 동물에 대한 정보를 조회합니다.")
+    @Operation(summary = "중분류 리스트 조회", description = "대분류 동물에 속하는 중분류 동물에 대한 정보를 조회합니다.")
     @Parameters({
             @Parameter(name = "mainClassificationId", description = "대분류 동물 식별자", example = "1")
     })

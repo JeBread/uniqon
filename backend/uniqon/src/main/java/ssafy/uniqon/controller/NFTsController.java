@@ -54,7 +54,6 @@ public class NFTsController {
             String contractAddress
     ){}
 
-
     public record NFTWebResponse(
             @Schema(description = "NFT ID")
             Integer nftId,

@@ -40,7 +40,6 @@ dependencies {
 
 
 	//pinata
-	implementation files("libs/pinata-java-sdk-2.1.0.jar")
 	implementation group: 'com.github.ipld', name: 'java-cid', version: 'v1.3.1'
 	implementation group: 'com.github.multiformats', name: 'java-multiaddr', version: 'v1.4.12'
 	implementation group: 'com.squareup.okhttp3', name: 'okhttp', version: '4.9.1'
